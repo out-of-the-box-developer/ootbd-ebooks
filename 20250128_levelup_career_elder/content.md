@@ -2,12 +2,12 @@
 ## A Q&A with Elder Moraes
 
 1. [Introduction](#introduction)
-1. [Chapter 1: Getting Known Outside Your Company](#chapter-01)  
-1. [Chapter 2: Finding Your Voice in Tech](#chapter-02)  
-1. [Chapter 3: Building Career-Boosting Habits](#chapter-03)  
-1. [Chapter 4: The Power of Mentorship](#chapter-04)  
-1. [Chapter 5: Community: The Career Multiplier](#chapter-05)  
-1. [Chapter 6: Becoming a Java Champion](#chapter-06)  
+1. [Chapter 1: Getting Known Outside Your Company](#chapter01)  
+1. [Chapter 2: Finding Your Voice in Tech](#chapter02)  
+1. [Chapter 3: Building Career-Boosting Habits](#chapter03)  
+1. [Chapter 4: The Power of Mentorship](#chapter04)  
+1. [Chapter 5: Community: The Career Multiplier](#chapter05)  
+1. [Chapter 6: Becoming a Java Champion](#chapter06)  
 1. [Conclusion](#conclusion)
 
 <a name="introduction"></a>
@@ -19,7 +19,7 @@ In the ever-evolving world of software development, standing out is more than ju
 
 Through his journey, Elder has learned invaluable lessons about **sharing knowledge, building a personal brand, leveraging communities, and continuous learning**. Whether you are a **beginner developer** or an **experienced engineer**, these insights will help you **level up your career** and become a recognized professional in your field.
 
-<a name="chapter-01"></a>
+<a name="chapter01"></a>
 
 ## Chapter 1: Getting Known Outside Your Company  
 
@@ -38,7 +38,7 @@ Many developers work hard and gain recognition within their company but remain u
 ✅ Teaching others helps you learn more deeply.  
 ✅ Start small; consistency is more important than complexity.  
 
-<a name="chapter-02"></a>
+<a name="chapter02"></a>
 
 ## Chapter 2: Finding Your Voice in Tech  
 
@@ -56,7 +56,7 @@ When sharing knowledge, **your perspective matters**. Different people explain c
 ✅ Being consistent builds your personal brand over time.  
 ✅ Find the format that works best for you and your audience.  
 
-<a name="chapter-03"></a>
+<a name="chapter03"></a>
 
 ## Chapter 3: Building Career-Boosting Habits  
 
@@ -74,7 +74,7 @@ Starting something new—whether it’s writing, speaking, or coding—can feel 
 ✅ **Daily progress** is more effective than bursts of motivation.  
 ✅ Growth is a process—embrace the journey.  
 
-<a name="chapter-04"></a>
+<a name="chapter04"></a>
 
 ## Chapter 4: The Power of Mentorship  
 
@@ -92,7 +92,7 @@ Mentorship accelerates your career by helping you avoid common mistakes. Elder h
 ✅ Invest in mentorship as you would in education.  
 ✅ Apply what you learn—mentorship only works if you take action.  
 
-<a name="chapter-05"></a>
+<a name="chapter05"></a>
 
 ## Chapter 5: Community: The Career Multiplier  
 
@@ -110,7 +110,7 @@ Being part of a **tech community** helps you **learn faster, meet new people, an
 ✅ The best way to benefit is to **contribute first**.  
 ✅ Even if you live far from major cities, online communities provide great opportunities.  
 
-<a name="chapter-06"></a>
+<a name="chapter06"></a>
 
 ## Chapter 6: Becoming a Java Champion  
 

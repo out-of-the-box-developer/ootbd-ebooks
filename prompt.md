@@ -9,7 +9,6 @@ Write an engaging, easy-to-read ebook that compiles the most valuable insights a
    - Extract and summarize the most important insights from the interview transcript.  
    - Organize the insights into clear, well-defined sections or chapters based on themes (e.g., Leadership, Innovation, Overcoming Challenges, Lessons Learned).  
    - Use headings and subheadings to make navigation easy.
-   - Use the tag `<div style="page-break-after: always;"></div>` to break page and separate sections or chapters.
 
 3. **Quotes & Key Takeaways:**  
    - Include powerful direct quotes from the interviewee to add authenticity and impact.

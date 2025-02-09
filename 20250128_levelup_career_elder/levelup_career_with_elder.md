@@ -1,16 +1,16 @@
 # Level Up Your Career: Lessons from a Java Champion  
 ## A Q&A with Elder Moraes
 
-1. [Introduction](#introduction)
-1. [Chapter 1: Getting Known Outside Your Company](#chapter01)  
-1. [Chapter 2: Finding Your Voice in Tech](#chapter02)  
-1. [Chapter 3: Building Career-Boosting Habits](#chapter03)  
-1. [Chapter 4: The Power of Mentorship](#chapter04)  
-1. [Chapter 5: Community: The Career Multiplier](#chapter05)  
-1. [Chapter 6: Becoming a Java Champion](#chapter06)  
-1. [Conclusion](#conclusion)
+- [Introduction](#introduction)
+- [Chapter 1: Getting Known Outside Your Company](#chapter-1-getting-known-outside-your-company)
+- [Chapter 2: Finding Your Voice in Tech](#chapter-2-finding-your-voice-in-tech)
+- [Chapter 3: Building Career-Boosting Habits](#chapter-3-building-career-boosting-habits)
+- [Chapter 4: The Power of Mentorship](#chapter-4-the-power-of-mentorship)
+- [Chapter 5: Community: The Career Multiplier](#chapter-5-community-the-career-multiplier)
+- [Chapter 6: Becoming a Java Champion](#chapter-6-becoming-a-java-champion)
+- [Conclusion: Your Career, Your Growth](#conclusion-your-career-your-growth)
 
-<a name="introduction"></a>
+<div style="page-break-after: always;"></div>
 
 ## Introduction 
 
@@ -19,7 +19,7 @@ In the ever-evolving world of software development, standing out is more than ju
 
 Through his journey, Elder has learned invaluable lessons about **sharing knowledge, building a personal brand, leveraging communities, and continuous learning**. Whether you are a **beginner developer** or an **experienced engineer**, these insights will help you **level up your career** and become a recognized professional in your field.
 
-<a name="chapter01"></a>
+<div style="page-break-after: always;"></div>
 
 ## Chapter 1: Getting Known Outside Your Company  
 
@@ -38,7 +38,7 @@ Many developers work hard and gain recognition within their company but remain u
 ✅ Teaching others helps you learn more deeply.  
 ✅ Start small; consistency is more important than complexity.  
 
-<a name="chapter02"></a>
+<div style="page-break-after: always;"></div>
 
 ## Chapter 2: Finding Your Voice in Tech  
 
@@ -56,7 +56,7 @@ When sharing knowledge, **your perspective matters**. Different people explain c
 ✅ Being consistent builds your personal brand over time.  
 ✅ Find the format that works best for you and your audience.  
 
-<a name="chapter03"></a>
+<div style="page-break-after: always;"></div>
 
 ## Chapter 3: Building Career-Boosting Habits  
 
@@ -74,7 +74,7 @@ Starting something new—whether it’s writing, speaking, or coding—can feel 
 ✅ **Daily progress** is more effective than bursts of motivation.  
 ✅ Growth is a process—embrace the journey.  
 
-<a name="chapter04"></a>
+<div style="page-break-after: always;"></div>
 
 ## Chapter 4: The Power of Mentorship  
 
@@ -88,11 +88,11 @@ Mentorship accelerates your career by helping you avoid common mistakes. Elder h
 - **Offer something in return** – Even sharing updates on your progress keeps the mentor engaged.  
 
 ### Key Takeaways:  
-✅ A mentor **guides you through obstacles and helps you grow faster**.  
+✅ A mentor **guides you through obstacles and helps you grow faster** .  
 ✅ Invest in mentorship as you would in education.  
 ✅ Apply what you learn—mentorship only works if you take action.  
 
-<a name="chapter05"></a>
+<div style="page-break-after: always;"></div>
 
 ## Chapter 5: Community: The Career Multiplier  
 
@@ -106,11 +106,11 @@ Being part of a **tech community** helps you **learn faster, meet new people, an
 - **Participate online** – Engage in Discord channels, GitHub discussions, and social media groups.  
 
 ### Key Takeaways:  
-✅ Community helps you **go further, faster**.  
-✅ The best way to benefit is to **contribute first**.  
+✅ Community helps you **go further, faster** .  
+✅ The best way to benefit is to **contribute first** .  
 ✅ Even if you live far from major cities, online communities provide great opportunities.  
 
-<a name="chapter06"></a>
+<div style="page-break-after: always;"></div>
 
 ## Chapter 6: Becoming a Java Champion  
 
@@ -124,11 +124,11 @@ Becoming a **Java Champion** is not about **fame**; it’s about **impact**. It�
 - **Solve real problems** – Contribute valuable insights that help developers.  
 
 ### Key Takeaways:  
-✅ Java Champions are recognized for **contributions, not titles**.  
+✅ Java Champions are recognized for **contributions, not titles** .  
 ✅ Focus on **helping others** and success will follow.  
-✅ **Your impact matters more than your years of experience**.  
+✅ **Your impact matters more than your years of experience** .  
 
-<a name="conclusion"></a>
+<div style="page-break-after: always;"></div>
 
 ## Conclusion: Your Career, Your Growth  
 
@@ -138,9 +138,9 @@ Elder’s journey teaches us that success in tech isn’t just about coding—it
 
 ✅ **Start sharing** – No matter your level, your knowledge is valuable.  
 ✅ **Find your voice** – There is **space for everyone** in the community.  
-✅ **Be consistent** – Growth happens **one step at a time**.  
-✅ **Seek mentorship** – Learning from others **accelerates your progress**.  
-✅ **Get involved** – **Communities multiply your impact and career opportunities**.  
+✅ **Be consistent** – Growth happens **one step at a time** .  
+✅ **Seek mentorship** – Learning from others **accelerates your progress** .  
+✅ **Get involved** – **Communities multiply your impact and career opportunities** .  
 
 Want to connect with Elder Moraes? Follow him on:  
 - **Instagram**: [@eldermoraes](https://instagram.com/eldermoraes)  
